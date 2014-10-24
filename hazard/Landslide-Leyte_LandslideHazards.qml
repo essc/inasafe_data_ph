@@ -1,7 +1,7 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
 <qgis version="2.4.0-Chugiak" minimumScale="0" maximumScale="1e+08" hasScaleBasedVisibilityFlag="0">
   <pipe>
-    <rasterrenderer opacity="1" alphaBand="-1" classificationMax="4" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="1" type="singlebandpseudocolor">
+    <rasterrenderer opacity="1" alphaBand="0" classificationMax="4" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="1" type="singlebandpseudocolor">
       <rasterTransparency>
         <singleValuePixelList>
           <pixelListEntry min="4" max="4" percentTransparent="100"/>
@@ -9,10 +9,10 @@
       </rasterTransparency>
       <rastershader>
         <colorrampshader colorRampType="INTERPOLATED" clip="0">
-          <item alpha="255" value="1" label="High(1)" color="#ff0000"/>
-          <item alpha="255" value="2" label="Medium(2)" color="#ffaa00"/>
-          <item alpha="255" value="3" label="Low(3)" color="#ffff7f"/>
-          <item alpha="255" value="4" label="Not flooded (4)" color="#ffffff"/>
+          <item alpha="255" value="1" label="No build zone (1)" color="#ff0000"/>
+          <item alpha="255" value="2" label="Build only with slope intervention, protection and continuous monitoring (2)" color="#ffaa00"/>
+          <item alpha="255" value="3" label="Build only with slope intervention (3)" color="#ffff7f"/>
+          <item alpha="255" value="4" label="No landslide (4)" color="#ffffff"/>
         </colorrampshader>
       </rastershader>
     </rasterrenderer>
