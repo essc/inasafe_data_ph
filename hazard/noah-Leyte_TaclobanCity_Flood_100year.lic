@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ga_license_file>
+  <metadata>
+    <author>Maning Sambale, ESSC</author>
+  </metadata>
+
+  <datafile>
+    <filename>noah-Leyte_TaclobanCity_Flood_100year.tif</filename>
+    <checksum>_</checksum>
+    <publishable>Yes</publishable>
+    <accountable>_</accountable>
+    <source>Project NOAH</source>
+    <IP_owner>Project NOAH</IP_owner>
+    <IP_info>Flood susceptibility 100year return period</IP_info>
+  </datafile>
+
+</ga_license_file>

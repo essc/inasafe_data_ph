@@ -1,0 +1,23 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="2.4.0-Chugiak" minimumScale="0" maximumScale="1e+08" hasScaleBasedVisibilityFlag="0">
+  <pipe>
+    <rasterrenderer opacity="1" alphaBand="-1" classificationMax="4" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="1" type="singlebandpseudocolor">
+      <rasterTransparency>
+        <singleValuePixelList>
+          <pixelListEntry min="4" max="4" percentTransparent="100"/>
+        </singleValuePixelList>
+      </rasterTransparency>
+      <rastershader>
+        <colorrampshader colorRampType="INTERPOLATED" clip="0">
+          <item alpha="255" value="1" label="High(1)" color="#ff0000"/>
+          <item alpha="255" value="2" label="Medium(2)" color="#ffaa00"/>
+          <item alpha="255" value="3" label="Low(3)" color="#ffff7f"/>
+        </colorrampshader>
+      </rastershader>
+    </rasterrenderer>
+    <brightnesscontrast brightness="0" contrast="0"/>
+    <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+    <rasterresampler maxOversampling="2"/>
+  </pipe>
+  <blendMode>0</blendMode>
+</qgis>
