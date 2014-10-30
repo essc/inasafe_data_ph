@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ga_license_file>
+  <metadata>
+    <author>Maning Sambale, ESSC</author>
+  </metadata>
+
+  <datafile>
+    <filename>Leyte_PHL_pph_v2b_2010_wgs84</filename>
+    <checksum>_</checksum>
+    <publishable>Yes</publishable>
+    <accountable>_</accountable>
+    <source>AsiaPop</source>
+    <IP_owner>AsiaPop</IP_owner>
+    <IP_info>Leyte 2010 Population</IP_info>
+  </datafile>
+
+</ga_license_file>

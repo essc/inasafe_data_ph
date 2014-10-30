@@ -1,0 +1,7 @@
+category: exposure
+subcategory: population
+title: Leyte Population 2010
+datatype: raster
+source: asiapop
+allow_resampling: false
+unit: people per pixels
