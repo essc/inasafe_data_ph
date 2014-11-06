@@ -16,4 +16,16 @@ Contents
 
  - Roads - OpenStreetMap
  - Buildings - OpenstreetMap
- - Population - LGU data
+ - Population - WorldPop
+
+License 
+=================
+See individual license file (*.lic) of each data.
+
+Reference and Credits
+========================
+
+- Project NOAH - http://blog.noah.dost.gov.ph/citations/
+- OpenStreetMap - http://www.openstreetmap.org/copyright
+- WorldPop - http://www.worldpop.org.uk 
+
