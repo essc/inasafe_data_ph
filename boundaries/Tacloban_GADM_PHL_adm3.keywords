@@ -1,0 +1,12 @@
+category: postprocessing
+aggregation attribute: NAME_3
+title: Tacloban Barangay Boundaries
+elderly ratio attribute: Global default
+youth ratio default: 0.26
+source: http.//www.gadm.org
+elderly ratio default: 0.08
+adult ratio attribute: Global default
+female ratio attribute: Global default
+youth ratio attribute: Global default
+female ratio default: 0.5
+adult ratio default: 0.66

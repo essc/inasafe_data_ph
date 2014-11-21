@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ga_license_file>
+  <metadata>
+    <author>Maning Sambale, ESSC</author>
+  </metadata>
+
+  <datafile>
+    <filename>Tacloban_GADM_PHL_adm3</filename>
+    <checksum>_</checksum>
+    <publishable>Yes</publishable>
+    <accountable>_</accountable>
+    <source>GADM</source>
+    <IP_owner>GADM</IP_owner>
+    <IP_info></IP_info>
+  </datafile>
+
+</ga_license_file>
