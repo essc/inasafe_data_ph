@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ga_license_file>
+  <metadata>
+    <author>Maning Sambale, ESSC</author>
+  </metadata>
+
+  <datafile>
+    <filename>tacloban_corephil</filename>
+    <checksum>_</checksum>
+    <publishable>Yes</publishable>
+    <accountable>_</accountable>
+    <source>CorePHil Drone Imagery</source>
+    <IP_owner> CorePHil Drone Imagery </IP_owner>
+    <IP_info> tacloban_corephil </IP_info>
+    <license>CC-BY<license>
+  </datafile>
+
+</ga_license_file>
