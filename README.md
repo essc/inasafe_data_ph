@@ -18,6 +18,8 @@ Contents
  - Buildings - OpenstreetMap
  - Population - WorldPop
 
+![sample pop](result-population.png)
+
 License 
 =================
 See individual license file (*.lic) of each data.
